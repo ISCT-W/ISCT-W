@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm JH W
 
-<!--
-**ISCT-W/ISCT-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD @ Tokyo Tech | Multimodal AI & AI Trustworthiness & Privacy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Focus
+
+* LLM Security / Trustworthiness
+* Diffusion Model Data Privacy
+* Generative Models as Service
+
+---
+
+## 🚀 Selected Projects
+
+### 🧠 Model Merging Defense
+
+* PaRaMS (ICCV 2025)
+* Parameter-level defense without accuracy trade-off
+
+---
+
+## 🧩 What I Build
+
+* Research → System → Infrastructure
+* Turning papers into reproducible pipelines
+
+---
+
+## 📫 Contact
+
+* Email: wei.titech@outlook.com
