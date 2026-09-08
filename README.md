@@ -20,6 +20,16 @@ Website languages: [中文](https://isct-w.github.io/) / [English](https://isct-
 | PhD, Systems and Control Engineering | Institute of Science Tokyo | Sep 2023 – Sep 2026 |
 | Master’s degree, Systems and Control Engineering | Tokyo Institute of Technology | Sep 2020 – Sep 2022 |
 
+## Internship
+
+### [AI-MAGE](https://ai-mage.jp/)
+
+I intern at AI-MAGE, where we build AI assistants and workflow tools for the anime industry. Our work supports reference search, licensing supervision, and planning, helping teams use knowledge about their works in everyday tasks.
+
+**Products:** Mage Agent · Mage Review · Mage Platform
+
+[Company website](https://ai-mage.jp/) · [Internship overview on my website](https://isct-w.github.io/en/#experience)
+
 ## Selected research
 
 - **A Single Suffix to Break Them All: Basin-Aware Jailbreaks for Merged Model Families** — accepted to Findings of EMNLP 2026, second author. [Research notes](https://isct-w.github.io/en/blog/research/basin-aware-jailbreak-minmax/)
