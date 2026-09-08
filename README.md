@@ -22,12 +22,11 @@ Website languages: [中文](https://isct-w.github.io/) / [English](https://isct-
 
 ## Selected research
 
-- **Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy** — ICCV 2025, co-first author. PaRaMS studies parameter transformations that preserve a model’s standalone utility while disrupting direct merging. [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Junhao_Disrupting_Model_Merging_A_Parameter-Level_Defense_Without_Sacrificing_Accuracy_ICCV_2025_paper.html) · [Code](https://github.com/ISCT-W/PaRaMS) · [Explanation](https://isct-w.github.io/en/blog/research/params-model-merging-defense/)
 - **A Single Suffix to Break Them All: Basin-Aware Jailbreaks for Merged Model Families** — accepted to Findings of EMNLP 2026, second author. [Research notes](https://isct-w.github.io/en/blog/research/basin-aware-jailbreak-minmax/)
-- **Pre-crash injury risk prediction with guaranteed confidence level: a conformal and interpretable framework** — Traffic Injury Prevention, 2025, first author. [Paper](https://doi.org/10.1080/15389588.2025.2538725)
-- **How does the pre-crash environment affect injury risk? Injury prediction and analysis based on graph neural network** — International Journal of Automotive Engineering, 2026, first author. [Paper](https://doi.org/10.20485/jsaeijae.17.1_15)
+- **Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy** — ICCV 2025, co-first author. PaRaMS studies parameter transformations that preserve a model’s standalone utility while disrupting direct merging. [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Junhao_Disrupting_Model_Merging_A_Parameter-Level_Defense_Without_Sacrificing_Accuracy_ICCV_2025_paper.html) · [Code](https://github.com/ISCT-W/PaRaMS) · [Explanation](https://isct-w.github.io/en/blog/research/params-model-merging-defense/)
+- **Quantifying Transferability in Road-Safety Digital Twins via Mechanism–Exposure Decomposition** — accepted to Road Safety and Simulation (RSS) 2026, first author. **Best Application Paper Award**.
 
-The [full publication list](https://isct-w.github.io/en/#publications) includes additional work on transferability and collision prediction, with publication and acceptance status listed separately.
+See the [full publication list](https://isct-w.github.io/en/#publications) for journal articles and other research.
 
 ## Projects
 
